@@ -1,0 +1,30 @@
+langchain
+langchain-openai
+langchain-groq
+faiss-cpu
+tiktoken
+langchain-community
+chromadb
+sentence-transformers
+pypdf
+python-dotenv
+pymupdf
+python-docx
+unstructured
+docx2txt
+pandas
+openpyxl
+msoffcrypto-tool
+jq
+matplotlib
+# Embeddings
+langchain.huggingface
+sentence-transformers
+
+# Vector Stores
+
+langchain_core
+langchain-experimental
+langchain-classic
+rank_bm25
+wikipedia
