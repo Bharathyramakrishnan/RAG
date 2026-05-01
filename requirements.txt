@@ -28,3 +28,10 @@ langchain-experimental
 langchain-classic
 rank_bm25
 wikipedia
+
+#AgenticAI
+langgraph
+arxiv
+langgraph-cli[inmem]
+langgraph_supervisor
+langchainhub
